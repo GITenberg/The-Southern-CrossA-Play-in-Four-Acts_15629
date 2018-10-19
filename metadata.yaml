@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6172'
     url: http://www.gutenberg.org/2009/agents/6172
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15629#The-Southern-CrossA-Play-in-Four-Acts
 gutenberg_issued: '2005-04-15'
 gutenberg_type: Text
 identifiers:
@@ -23,6 +25,7 @@ subjects:
 - !lcc 'PS'
 - !lcsh 'United States -- History -- Civil War, 1861-1865 -- Drama'
 - !lcsh 'American drama -- 20th century'
+- GITenberg
 title: 'The Southern Cross
 
   A Play in Four Acts'
